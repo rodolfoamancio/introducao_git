@@ -24,7 +24,7 @@ Começamos uma lista pelo numero seguido de ponto, com cada elemento em uma linh
 ### Todo list
 Criar todo list, "- [ ]"
 - [X] Mostrar github
-- [ ] Mostrar markdown
+- [X] Mostrar markdown
 
 ### Tabelas
 
